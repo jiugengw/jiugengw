@@ -1,6 +1,6 @@
 ### hi, i'm jiu geng
 
-i like to build ai agent systems. i like to solve challenging problems. i like math. ai safety research is interesting too, mainly mech interp and ai control.
+i like to build ai agent systems. i like to solve challenging problems. i like math. ai safety research is kinda interesting too, mainly mech interp and ai control. 
 
 **projects**
 
